@@ -44,3 +44,4 @@ git clone https://github.com/raoguchi/svm_viz_mlb.git
 cd svm_viz_mlb
 npm install
 npm run dev
+
